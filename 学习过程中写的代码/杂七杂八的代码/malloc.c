@@ -1,6 +1,11 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include <stdbool.h>
+
+bool fun() {
+    return false;
+}
 
 int main(int argc, char *argv[]) {
 
